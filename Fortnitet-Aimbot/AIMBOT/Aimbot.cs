@@ -15,7 +15,7 @@ namespace ValorantColorAimbot
     class Program
     {
         // Here you will need to modify it to fit your screen. If you don't fix it, it won't fit and won't work.
-        const int xSize = 2560;
+        const int xSize = 1920
         const int ySize = 1080;
  
         //FOV in pixels, smaller fov will result in faster update time
@@ -219,3 +219,4 @@ void External
 	return false;
 }
 				
+
